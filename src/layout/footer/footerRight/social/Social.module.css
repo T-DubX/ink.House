@@ -1,0 +1,30 @@
+.socialWrapper {
+
+}
+
+/*social link*/
+
+.socialLinkWrapper {
+    display: flex;
+    gap: 30px;
+}
+
+
+/*copyright*/
+
+.copyright {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.author {
+    margin-bottom: 6px;
+    color: #86928B;
+    font-size: 12px;
+}
+
+.copyrightText {
+    color: #86928B;
+    font-size: 12px;
+}

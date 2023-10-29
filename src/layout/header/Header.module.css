@@ -1,0 +1,17 @@
+.header {
+    background-color: #E1EDE6;
+}
+
+.flexContainer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 60px;
+    padding: 33px 15px;
+}
+
+.cart {
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+}

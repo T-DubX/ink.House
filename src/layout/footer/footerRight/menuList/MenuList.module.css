@@ -1,0 +1,30 @@
+.menuList {
+    display: flex;
+    gap: 60px;
+}
+
+
+
+/*menu items*/
+
+.menuItem {
+
+}
+
+.headingItem {
+    font-size: 20px;
+    margin-bottom: 6px;
+}
+
+.listItems {
+
+}
+
+.item {
+    color: #86928B;
+    margin-bottom: 6px;
+}
+
+.item:last-child {
+    margin-bottom: 0;
+}

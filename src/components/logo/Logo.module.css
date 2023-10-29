@@ -1,0 +1,18 @@
+.wrapperLogo {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+
+    margin-right: auto;
+}
+
+.logoImg {
+    width: 35px;
+    height: 35px;
+}
+
+.logoText {
+    color: #598D66;
+    font-size: 20px;
+    font-weight: 700;
+}

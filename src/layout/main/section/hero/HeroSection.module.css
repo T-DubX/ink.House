@@ -1,0 +1,47 @@
+
+.flexContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+/*hero img*/
+.imgWrapper {
+    max-width: 540px;
+    object-fit: cover;
+}
+
+/*hero description*/
+
+.wrapperDescription {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 540px;
+}
+
+.headerDescription {
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 110%; /* 66px */
+}
+
+.accentColor {
+    color: #598D66;
+}
+
+.text {
+    color: #86928B;
+    font-size: 18px;
+    line-height: 150%; /* 27px */
+    margin: 20px 0 60px ;
+}
+
+.btnDescription {
+    padding: 20px 60px;
+    border: 1px solid #598D66;
+    color: #598D66;
+    font-size: 20px;
+}
+

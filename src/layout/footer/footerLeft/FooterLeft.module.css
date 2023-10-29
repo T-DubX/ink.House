@@ -1,0 +1,21 @@
+.footerLeft {
+    display: flex;
+    flex-direction: column;
+    gap: 47px;
+}
+
+.phone {
+    display: flex;
+    flex-direction: column;
+}
+
+.phoneLink {
+    font-size: 20px;
+    white-space: nowrap;
+}
+
+.phone span {
+    color: #86928B;
+    font-size: 18px;
+    margin-top: 8px;
+}
